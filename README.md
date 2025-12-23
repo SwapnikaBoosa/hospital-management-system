@@ -6,14 +6,14 @@ Microservices Repositories
 Authentication Service 
 https://github.com/SwapnikaBoosa/authentication-service
 
+Appointment Service
+https://github.com/SwapnikaBoosa/appointment-service
+
 Staff Service
 https://github.com/SwapnikaBoosa/staff-service
 
 Patient Service 
 https://github.com/SwapnikaBoosa/patient-service
-
-Appointment Service
-https://github.com/SwapnikaBoosa/appointment-service
 
 Bed Service
 https://github.com/SwapnikaBoosa/bed-service
